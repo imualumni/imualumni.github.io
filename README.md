@@ -1,2 +1,2 @@
-# imuliping.github.io
+# imualumni.github.io
 My static website
