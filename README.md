@@ -1,2 +1,2 @@
 # imualumni.github.io
-My static website
+My static website.
